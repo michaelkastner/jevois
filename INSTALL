@@ -29,7 +29,7 @@ Getting JeVois to install requires several steps, outlined below:
 
    - jevois: The core C++17 JeVois software.
    - jevoisbase: The base collection of 25+ machine vision modules for JeVois.
-   - smaplemodule: A sample standalone module for JeVois, use as a template for new modules.
+   - samplemodule: A sample standalone module for JeVois, use as a template for new modules.
    - jevois-sdk: The framework that provides a Linux kernel and operating system for a JeVois camera, to be flashed
      to a microSD card.
 
